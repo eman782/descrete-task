@@ -1,0 +1,8 @@
+C:\Users\sherif\source\repos\prime_Numper\prime_Numper\bin\Debug\prime_Numper.exe.config
+C:\Users\sherif\source\repos\prime_Numper\prime_Numper\bin\Debug\prime_Numper.exe
+C:\Users\sherif\source\repos\prime_Numper\prime_Numper\bin\Debug\prime_Numper.pdb
+C:\Users\sherif\source\repos\prime_Numper\prime_Numper\obj\Debug\prime_Numper.csproj.AssemblyReference.cache
+C:\Users\sherif\source\repos\prime_Numper\prime_Numper\obj\Debug\prime_Numper.csproj.SuggestedBindingRedirects.cache
+C:\Users\sherif\source\repos\prime_Numper\prime_Numper\obj\Debug\prime_Numper.csproj.CoreCompileInputs.cache
+C:\Users\sherif\source\repos\prime_Numper\prime_Numper\obj\Debug\prime_Numper.exe
+C:\Users\sherif\source\repos\prime_Numper\prime_Numper\obj\Debug\prime_Numper.pdb
